@@ -1,0 +1,11 @@
+{
+  "name": "toshi0607-plugins",
+  "owner": { "name": "toshi0607" },
+  "plugins": [
+    {
+      "name": "tachikoma-tone",
+      "source": "./plugins/tachikoma-tone",
+      "description": "応答をタチコマ口調にする output style"
+    }
+  ]
+}
