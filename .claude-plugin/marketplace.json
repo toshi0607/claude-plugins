@@ -6,6 +6,11 @@
       "name": "tachikoma-tone",
       "source": "./plugins/tachikoma-tone",
       "description": "応答をタチコマ口調にする output style"
+    },
+    {
+      "name": "doc-brief",
+      "source": "./plugins/doc-brief",
+      "description": "読者を決めてから書く執筆枠組み(brief 正本・読者役審査・却下理由の基準化)"
     }
   ]
 }

@@ -1,0 +1,6 @@
+{
+  "name": "doc-brief",
+  "description": "読者と依頼事項を確定した brief から文書を書き、却下理由を審査基準に育てる執筆枠組み(判断依頼文書・技術記事・エッセイ)",
+  "version": "0.1.0",
+  "author": { "name": "toshi0607" }
+}
